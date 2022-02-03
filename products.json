@@ -1,0 +1,17 @@
+[{
+    "name": "bic",
+    "price": 23,
+    "id": "a4fca9eb-a409-46bb-be20-4eda4f50c910"
+}, {
+    "name": "caneta",
+    "price": 20.5,
+    "id": "36ba9560-5338-43cc-8906-6580a65f305a"
+}, {
+    "name": "caderno",
+    "price": 20.5,
+    "id": "955ab675-28b4-41ca-87a8-0feff9e85d8a"
+}, {
+    "name": "estojo",
+    "price": 20.5,
+    "id": "c836c8be-4e98-481e-a540-88640672ca6a"
+}]

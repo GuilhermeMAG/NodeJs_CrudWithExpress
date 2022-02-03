@@ -1,0 +1,28 @@
+POST http://localhost:4002/products
+Content-Type: application/json
+
+{
+    "name": "estojo",
+    "price": 20.50
+}
+
+###
+
+GET http://localhost:4002/products
+
+###
+GET http://localhost:4002/products/d67cd029-fdee-471a-a20a-82a73318d6fb
+
+###
+
+PUT http://localhost:4002/products/028c6e4b-3fde-4fb2-aecc-21f6e21e48fb
+Content-Type: application/json
+
+{
+    "name": "copo",
+    "price": 23.00
+}
+
+###
+
+DELETE http://localhost:4002/products/73330886-ccc6-4fce-a299-547f013d5522
