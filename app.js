@@ -1,5 +1,5 @@
 const express = require("express");
-const { randomUUID } = require("crypto")
+const { randomUUID } = require("crypto");
 const fs = require("fs");
 const app = express();
 
